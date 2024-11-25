@@ -1,0 +1,28 @@
+.btnCont{
+    background-color: orange;
+    padding: 20px 30px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin: 3px;
+}
+
+
+.btnCont:hover{
+    background-color: rgb(255, 186, 57);
+}
+
+.btnContDanger{
+    background-color: rgb(255, 34, 0);
+    color: gold;
+}
+
+
+.btnContDanger:hover{
+    background-color: rgb(255, 70, 57);
+    color: rgb(225, 255, 0);
+}
+
+.btnPrimary:hover{
+    background-color: rgb(252, 185, 61);
+
+}

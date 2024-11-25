@@ -1,0 +1,19 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+    padding: 30px;
+    border: 1px solid gray;
+    border-radius: 12px;
+
+}
+
+.form>input{
+    background-color: rgb(245, 184, 119);
+    border-radius: 5px;
+}
+
+.errorMassege{
+    color: red;
+}

@@ -1,0 +1,7 @@
+.grid-container{
+    margin-left: 10px;
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(auto-fill, minmax(200px,1fr));
+    gap: 15px;
+}

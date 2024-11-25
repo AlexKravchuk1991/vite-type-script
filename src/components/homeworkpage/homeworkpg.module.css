@@ -1,0 +1,16 @@
+.homeworkMainCont{
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+    margin-top: 30px;
+}
+
+.homeworkMainCont a {
+    text-decoration: none;
+    color: white;
+}
+
+.homeworkMainCont a:hover{
+    
+    font-size: 25px;
+}

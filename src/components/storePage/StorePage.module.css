@@ -1,0 +1,36 @@
+.storeContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.cardContainer{
+    margin: 15px;
+    width: 300px;
+   min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.cardContainerMain{
+    
+    width: 500px;
+    min-height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.imgCont{
+    width: 100%;
+    height: 50%;}

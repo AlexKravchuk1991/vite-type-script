@@ -1,0 +1,12 @@
+.desc{
+    font-style: italic;
+    color: chocolate;
+}
+
+.heading{
+    text-decoration: underline;
+}
+
+.boldText{
+    font-weight: bold;
+}

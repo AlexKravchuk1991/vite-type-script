@@ -1,0 +1,21 @@
+.feedback-cont{
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(yellow,orange,red);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.feedback-btn-comt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.fb-like-dislike-btn{
+    display: flex;
+}
